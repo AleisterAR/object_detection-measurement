@@ -6,7 +6,7 @@ import time
 import streamlit as st
 
 
-model = YOLO("Yolo-Weights/yolov8n.pt")
+model = YOLO("yolov8n.pt")
 
 classNames = ["person","bicycle", "car", "motorbike", "aeroplane", "bus", "train", "truck", "boat",
               "traffic light", "fire hydrant", "stop sign", "parking meter", "bench", "bird", "cat",
