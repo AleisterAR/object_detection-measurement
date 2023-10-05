@@ -1,4 +1,4 @@
 pip == 23.2.1
 ultralytics == 8.0.188
-cv2
+opencv-python-headless
 cvzone == 1.6.1
