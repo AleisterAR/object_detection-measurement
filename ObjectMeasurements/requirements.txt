@@ -1,5 +1,5 @@
-pip == 23.2.1
-ultralytics == 8.0.188
+pip 
+ultralytics 
 cv2
-cvzone == 1.6.1
+cvzone
 streamlit
